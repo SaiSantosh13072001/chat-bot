@@ -77,6 +77,7 @@
                 .catch(error => console.error('Error:', error));
             }
 
+
             // Event listener for send button click
             sendButton.addEventListener('click', sendMessage);
 
@@ -90,3 +91,5 @@
     </script>
 </body>
 </html>
+![Chatbot - Google Chrome 16-05-2024 16_22_08](https://github.com/SaiSantosh13072001/chat-bot/assets/153276610/8863277a-d98c-4f70-aeff-28b9dafb5756)
+
